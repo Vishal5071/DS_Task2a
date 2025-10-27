@@ -6,6 +6,8 @@ This is the code for the first part of Assignment 2—building a simple social m
 
 We've got five main modules: `post`, `comment`, `reply`, `platform`, and the `main` driver. Everything is set up to follow the ADT rules.
 
+# Git Repository Link: https://github.com/Vishal5071/DS_Task2a
+
 ## How to Build and Run It
 
 Open the terminal in the same folder as *Makefile*.
